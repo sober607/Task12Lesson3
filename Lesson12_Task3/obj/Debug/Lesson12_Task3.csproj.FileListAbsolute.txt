@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Lesson12_Task3\Lesson12_Task3\obj\Debug\Lesson12_Task3.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Lesson12_Task3\Lesson12_Task3\bin\Debug\Lesson12_Task3.exe.config
+C:\Users\Admin\source\repos\Lesson12_Task3\Lesson12_Task3\bin\Debug\Lesson12_Task3.exe
+C:\Users\Admin\source\repos\Lesson12_Task3\Lesson12_Task3\bin\Debug\Lesson12_Task3.pdb
+C:\Users\Admin\source\repos\Lesson12_Task3\Lesson12_Task3\obj\Debug\Lesson12_Task3.exe
+C:\Users\Admin\source\repos\Lesson12_Task3\Lesson12_Task3\obj\Debug\Lesson12_Task3.pdb
